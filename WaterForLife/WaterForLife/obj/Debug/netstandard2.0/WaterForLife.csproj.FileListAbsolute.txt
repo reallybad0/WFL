@@ -1,0 +1,15 @@
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\bin\Debug\netstandard2.0\pics\1.jpg
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\bin\Debug\netstandard2.0\WaterForLife.deps.json
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\bin\Debug\netstandard2.0\WaterForLife.dll
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\bin\Debug\netstandard2.0\WaterForLife.pdb
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.csproj.CoreCompileInputs.cache
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.App.xaml.g.cs
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.Bean.xaml.g.cs
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.FirstPage.xaml.g.cs
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.MainPage.xaml.g.cs
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.StatsPage.xaml.g.cs
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.AssemblyInfoInputs.cache
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.AssemblyInfo.cs
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.dll
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.pdb
+D:\fiserkl15\WaterForLife\WaterForLife\WaterForLife\obj\Debug\netstandard2.0\WaterForLife.csprojResolveAssemblyReference.cache
