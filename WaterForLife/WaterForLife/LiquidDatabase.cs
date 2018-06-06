@@ -15,6 +15,7 @@ namespace WaterForLife
             database = new SQLiteAsyncConnection(dbPath);
             database.CreateTableAsync<Liquid>().Wait();
             database.CreateTableAsync<LiquidRecord>().Wait();
+            database.CreateTableAsync<BeanData>().Wait();
         }
         public Task<List<T>> GetItems<T>() where T : ATable, new()
         {
@@ -31,6 +32,18 @@ namespace WaterForLife
                 return database.InsertAsync(item);
             }
         }
-
+        public void ResetTable<T>() where T : ATable, new()
+        {
+            database.DropTableAsync<T>().Wait();
+            database.CreateTableAsync<T>().Wait();
+        }
+        public Task<int> DeleteItem<T>(T item) where T : ATable, new()
+        {
+            return database.DeleteAsync(item);
+        }
+        public Task<int> UpdateItem<T>(T item) where T : ATable, new()
+        {
+            return database.UpdateAsync(item);
+        }
     }
 }

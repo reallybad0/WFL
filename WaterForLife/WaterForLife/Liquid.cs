@@ -16,9 +16,8 @@ namespace WaterForLife
         {
         }
 
-        public Liquid(int iD, string title, int amount, int type)
+        public Liquid( string title, int amount, int type)
         {
-            ID = iD;
             Title = title;
             Amount = amount;
             Type = type;
